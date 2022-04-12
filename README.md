@@ -1,2 +1,0 @@
-# Korzina
-Bin for Portfolio
